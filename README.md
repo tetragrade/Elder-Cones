@@ -1,1 +1,1 @@
-![https://raw.githubusercontent.com/tetragrade/elder_cones/refs/heads/main/map.png]
+![a map of a D&D dungeon in blue and white](map.png)
