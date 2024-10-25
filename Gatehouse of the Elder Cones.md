@@ -1,5 +1,5 @@
 + Quests.
-	1. ~~Selene the Psion's.
+	1. Selene the Psion's.
 		+ **TASK:**
 			+ Recover a psykonium shunt from the dungeon.
 			+ They are small funnel-shaped spirals of glowing purple metal, can't miss them.
