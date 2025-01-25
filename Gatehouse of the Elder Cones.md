@@ -33,12 +33,12 @@
 			2. Ball Mask (master of geometry).
 			3. Cone Helmet (master of trigonometry).
 		+ "God" is the number 3. Conics are π (bigger), so we should worship them instead.
-		+ d6 cult chatter.
-			1. Crasmus has a potion that will turn you into a cone. I'm going to win it.
+		+ d4 cult chatter.
+			1. "Crasmus has a potion that will turn you into a cone. I'm going to win it."
 			2. 3rd level cultist issued bizarre punishment (walk tightrope blindfolded).
-			3. The conics will return soon. I had a dream where they spoke to me.<br>They said I have to trust Crasmus and make sure not to get leaves in his tea. 
-			4. Lost my mask. So embarrassed. You're a sphere, right?
-			+ ![[dungeon_turn_procedure.png]]
+			3. "The conics will return soon. I had a dream where they spoke to me. They said I have to trust Crasmus and make sure not to get leaves in his tea."
+			4. "Lost my mask. So embarrassed." "You're a sphere, right?"
+		+ ![[dungeon_turn_procedure.png]]
 + Encounters.
 	1. Brad the Butcher.
 		+ Public.
@@ -116,7 +116,9 @@
 		+ Public.
 			+ Natural Statue (seemingly formed by erosion, like a cloaked figure, face and all).
 		+ Private.
-			+ No monster or loot.
+			+ Loot.
+   				+ Behind the "Statue". 
+	   				+ 1 Cult Mask (ball).
 	3. Colossal Cave.
 		+ Public.
 			+ Vast Chasm (leads down to the infinite underworld realm of Ur-Cone).
