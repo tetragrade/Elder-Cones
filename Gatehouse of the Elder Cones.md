@@ -79,6 +79,7 @@
 			+ Green Cone Body (four arms, two legs).
 			+ Human Face (protrudes from cone, three eyes: 3rd is source of powers).
 		+ Private.
+			+ Introduces Convention = { Don't Challenge the Leader (d6) }
 			+ Personality:
 				+ Fragile Narcissist (d12). 
 				+ Love Bomber (d8).
@@ -223,11 +224,13 @@
 				+ Once on, you can either climb up and down, or stand on the crossbar and let someone move the chain with the pulley system.
 	9. Conic Shrine.
 		+ Public.
-			+ Full of Smoke (from candles and incense).
+			+ Quiet (aside from whispering acolytes).
+			+ Full of Smoke (from candles and incense). 
 			+ Shrine (huge porphyry bust of conic figure, amethyst eyes).
 			+ Upper Levels Crossed by Tightrope (east/west balconies, crumbling railing).
 			+ Collapsed Rubble Arch (south wall).
 		+ Private.
+			+ Conventions = { Don't Disturb The Sacred Space (d10) }
 			+ Force.
 			+ Loot.
 				+ 5 Ancient Mathematical Scrolls (20d R&B).

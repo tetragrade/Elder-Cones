@@ -1,0 +1,52 @@
+body {
+	font-family: consolas;
+	text-align: center;
+}
+
+@media (orientation: landscape) {	
+	body {
+		margin-left: 15vw;
+		margin-right: 15vw;
+	}
+}
+
+h2 {
+	font-size: 2rem;
+}
+
+p, td, th {
+	font-size: 1rem;
+}
+
+div {
+	padding-bottom: .5rem;
+}
+
+li {
+	text-align: left;
+	font-size: 2rem;
+	padding-bottom: 1rem;
+}
+
+table, td, th {
+	border: 1px solid black;
+	border-collapse: collapse;
+	text-align: center;
+}
+
+table { 
+	margin-left: auto;
+	margin-right: auto;
+}
+
+td, th {
+	padding: .5rem;
+}
+
+#table-facets {
+	margin-top: 2rem;
+}
+
+#veracity-link {
+	font-size: 1.5rem;
+}
