@@ -29,14 +29,24 @@ export default {
 		"weak",
 		"sharp",
 		"blunt",
+		"bumpy",
+		"flat",
 		"immense",
 		"huge",
-		"big"
+		"big",
+		"small",
+		"tiny",
 	],
 	"upper": [
+		"light",
 		"soul",
 		"spirit",
 		"angel",
+		"tower",
+		"signal",
+		"emit",
+		"expand",
+		"grow"
 	],
 	"mental": [
 		"see",
@@ -86,7 +96,15 @@ export default {
 		"spew",
 		"bleed",
 		"cry",
-		"call"
+		"call",
+
+		"walk",
+		"run",
+		"fall",
+		"topple",
+		"roll",
+		"squeeze",
+		"flip"
 	],
 	"mineral": [
 		"amethyst",
@@ -251,14 +269,14 @@ export default {
 		
 		"light",
 		"twilight",
-		"dark",
 		"nothing"
 	],
 	"semantic_relation": [
 		"yield",
 		"cause",
 		"opposite",
-		"similar"
+		"similar",
+		"become"
 	],
 	"outsider": [
 		"ghoul",
@@ -275,6 +293,10 @@ export default {
 		"locust",
 		
 		"sick",
-		"wither"
+		"wither",
+
+		"dark",
+		"shrink",
+		"contract"
 	]
 }
