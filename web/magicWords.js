@@ -76,6 +76,8 @@ export default {
 		"shrink",
 		"contract",
 
+		"nightmare",
+
 		"unholy",
 		"hell",
 		"crime"
