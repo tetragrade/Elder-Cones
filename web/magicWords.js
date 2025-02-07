@@ -16,17 +16,22 @@ export default {
 		"reverse",
 		"overwhelm",
 		"avoid",
-		"oppose"
+		"oppose",
+		"banish"
 	],
 	"physical_property": [
 		"strong",
 		"weak",
 		"sharp",
-		"blunt"
+		"blunt",
+		"immense",
+		"huge",
+		"big"
 	],
 	"upper": [
 		"soul",
-		"spirit"
+		"spirit",
+		"angel",
 	],
 	"mental": [
 		"see",
@@ -75,7 +80,8 @@ export default {
 		"drop",	
 		"spew",
 		"bleed",
-		"cry"
+		"cry",
+		"call"
 	],
 	"mineral": [
 		"amethyst",
@@ -102,9 +108,10 @@ export default {
 	"control": [
 		"desire",
 		"obey",
-		"command"
+		"command",
+		"summon"
 	],
-	"sin": [
+	"flaw": [
 		"envy",
 		"gluttony",
 		"lust",
@@ -112,13 +119,21 @@ export default {
 		"greed",
 		"sadness",
 		"sloth",
-		"wrath"
+		"wrath",
+		"ugly"
 	],
 	"virtue": [
 		"brave",
-		"kind"
+		"kind",
+		"mighty",
+		"powerful",
+		"quick",
+		"invincible",
+		"smart",
+		"honest",
+		"beautiful"
 	],
-	"animal_real": [
+	"real_animal": [
 		"bird",
 		"fish",
 		"lizard",
@@ -145,12 +160,12 @@ export default {
 		"zebra",
 		"kangaroo"
 	],
-	"animal_fantasy": [
+	"fantasy_animal": [
 		"dragon",
 		"griffin",
 		"troll"
 	],
-	"plant_real": [
+	"real_plant": [
 		"wood",
 		"cherry",
 		"ebony",
