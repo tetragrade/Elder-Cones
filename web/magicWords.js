@@ -231,7 +231,9 @@ export default {
 	],
 	"place": [
 		"near",
+		"close",
 		"far",
+		"distant",
 		
 		"home",
 		"foreign",
