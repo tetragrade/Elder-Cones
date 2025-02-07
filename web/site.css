@@ -65,6 +65,10 @@ body > a {
 	margin-bottom: 1rem;
 }
 
+.character-class > table {
+	margin-bottom: 1rem;
+}
+
 .character-class > ul {
 	padding: 0;
 }
