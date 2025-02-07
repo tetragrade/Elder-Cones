@@ -41,12 +41,44 @@ export default {
 		"light",
 		"soul",
 		"spirit",
-		"angel",
 		"tower",
 		"signal",
 		"emit",
 		"expand",
-		"grow"
+		"grow",
+		"divine",
+		"heaven",
+		"law"
+	],
+	"outsider": [
+		"god",
+		"angel",
+
+		"ghoul",
+		"skeleton",
+		"elemental",
+
+		"demon",
+		"satan"
+	],
+	"downer": [
+		"rot",
+		"fungus",
+		
+		"vermin",
+		"swarm",
+		"locust",
+		
+		"sick",
+		"wither",
+
+		"dark",
+		"shrink",
+		"contract",
+
+		"unholy",
+		"hell",
+		"crime"
 	],
 	"mental": [
 		"see",
@@ -280,25 +312,45 @@ export default {
 		"similar",
 		"become"
 	],
-	"outsider": [
-		"ghoul",
-		"skeleton",
-		"demon",
-		"elemental"
-	],
-	"downer": [
-		"rot",
-		"fungus",
+	"social_roles": [
+		"seeker",
 		
-		"vermin",
-		"swarm",
-		"locust",
+		"wizard",
 		
-		"sick",
-		"wither",
+		"priest",
+		"pope",
+		
+		"fighter",
+		"warlord",
 
-		"dark",
-		"shrink",
-		"contract"
+		"rogue",
+		"thief",
+		"bandit",
+		"merchant",
+		"baron",
+		"count",
+		"duke",
+		"king",
+		"emperor",
+		
+		"barbarian",
+
+		"child",
+		"sibling",
+		"parent",
+
+		"spouse"
+	],
+	"time": [
+		"before",
+		"after",
+		"beginning",
+		"end"
+	],
+	"meta": [
+		"grimoire",
+		"spell",
+		"cast",
+		"myself",
 	]
 }

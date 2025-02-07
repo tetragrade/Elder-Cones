@@ -32,10 +32,14 @@
 					+ **1/scene:** Sword Projectiles (d4×d4 dmg).
 				+ The baron is accompanied by his retinue whenever he's out of his castle.
 					+ 16 **Warrior.**<br>12 HP. SV ≤4, AP 8. Actions: Sword (d6), Bow (d6).
-	2. Selene the Psion's Tower.
+	2. Selene the Psion's Wagon.
 		+ Public.
-			+ Carved Into Stone Pillar.
+			+ Crystal Ball.
 		+ Private.
+			+ Selene.
+				+ Old Lady.
+				+ Bald (skull cap).
+				+ Purple Robe.
 	3. Doc Dammeson's Clinic.
 		+ Public.
 			+ Two-Storey Wooden Building.

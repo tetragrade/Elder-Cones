@@ -11,7 +11,7 @@
 			+ Kill him and return his ruby ring as proof (you can keep the ring).
 		+ **REWARD:** free room and board forever at Castle Borok.
 	3. High Priest Hargrave.
-		+ **TASK:** Use this holy water to cleanse the conic shrine.
+		+ **TASK:** Recover the stolen icon.
 		+ **REWARD:** Free Indulgence.
 		  
 	4. Crasmus (in dungeon).
@@ -107,30 +107,58 @@
 					+ Brain Drain (fills a Light Slot, can only be removed by a psion).
 				+ PK Throw (thrown something no larger than a person, up to 30-ft).
 				+ PK Hypnotize (target must answer one yes/no question or gain d6 stress).
-	3. Sizss, giant anaconda woman.
+	3. Martin the Mathologer.
+		+ Public.
+			+ Human Man, Late 20s.
+			+ Long Wild Hair.
+			+ Filthy Robe.
+		+ Private.
+			+ Facets: Neurotic (d6), Conic Zealot (d8), Mathematician (d12)
+			+ Wants:
+				+ to impress Crasmus enough that he'll be allowed to leave the cult (impossible).
+			+ Secrets:
+				1. Crasmus is mathematically untalented, he asked me for help.
+			+ Light Slots.
+				1. Stress.
+				2. Stress.
+				3. Ruse (I'm a psion)
+					+ Martin's alleged powers are actually the entity below.
+				4. Conic Psi-Entity (XX-HAR-KAR-XX).
+					+ Former conic general & warlord, ruled from this fortress as the empire fell.
+					+ Wants: to possess someone smart and powerful, to regain his own body.
+					+ Powers:
+						+ Psi-Shield (grants host +8 HP).
+						+ PK Terrify (one human you can see experiences a frightening sensory effect).
+						+ PK Command (targets that fail a Light Save must obey or suffer d6 Stress, on a save they become immune for the rest of the session).
+						+ PK Fire (one character or object catches fire, characters get a Light Save).
+						+ PK Doom (explode the head of someone with <4 Light).
+			+ Flesh Slots.
+				1. Mathematician's Kit.
+				2. Strong Inverter (green ray-gun, 6d6 dmg, ranged: -10 Dif etc).
+			+ **Martin.**<br>8 HP, FL 4 (2), LI 8 (4). Actions:
+				+ Strong Inverter (6d6 dmg, ranged: -10 Dif etc).
+	4. Sizss, giant anaconda woman.
 		+ Wants:
 			1. Food.
 			2. The Conic Cultists to stop bothering her.
 		+ **Giant Anaconda.** 12 HP, SV, 8 AP. Actions:
 			+ Bite (d10 dmg).
 			+ Constrict (d4 dmg, victim can't move until Flesh Save).
-	4. d4 **Conic Cultist.** Strange mask, green robes.<br>8 HP, SV≤3, AP 8. Actions: 
+	5. d4 **Conic Cultist.** Strange mask, green robes.<br>8 HP, SV≤3, AP 8. Actions: 
 		+ Crook Staff (d6).
-	5. 1 **Undersky Tuna.** Iridescent scales and pitch-black eyes, hovers around ominously.<br>8 HP, SV ≤3, AP 8. Actions:
+	6. 1 **Undersky Tuna.** Iridescent scales and pitch-black eyes, hovers around ominously.<br>8 HP, SV ≤3, AP 8. Actions:
 		1. Slam (d8).
 		2. To the Depths with Ye (Light Save or be psychically banished to stygian sea in realm of pure darkness, until the tuna dies).
 			+ Affected characters can see the real and dark world overlapping, and interact with elements of both: they can swim around in mid-air, and fight, though impaired. 
 			+ Characters in the realm of pure darkness at the end of a scene are eaten by its sea monsters.
-	6. d4 **Degenerated Coneling.** Rat-sized cone creature with neon green skin, hobbles about.<br> 6 HP, SV ≤3, AP 4. Actions:
+	7. d4 **Degenerated Coneling.** Rat-sized cone creature with neon green skin, hobbles about.<br> 6 HP, SV ≤3, AP 4. Actions:
 		+ Smack (d4).
 		+ PK Cold (learn one secret of a creature you can see).
 		+ PK Trick (nearby characters hear an illusory sound, originating at a point you can see).
-	7. d2 **Melon-Skull Cave Rat.**<br>4 HP, SV ≤2, AP 4. Actions:
+	8. d2 **Melon-Skull Cave Rat.**<br>4 HP, SV ≤2, AP 4. Actions:
 		+ Bite (d4).
 		+ PK Maze (trapped in mental maze, and cannot act until they escape).
 			+ Can't act on your turn until you complete the maze.
-	8. d6 **Vampire Bat.**<br>1 HP, SV never. AP 4. Actions:
-		1. Bite (d2).
 + Locations.
 	0. Exterior Description.
 		+ Public.
@@ -259,6 +287,7 @@
 					+ 3 Cultist Disguise (sphere).
 					+ 1 Plague Doctor's Mask (7d R&B).
 			+ NPCs.
+				+ 1-in-2: Martin.
 				+ Doc Dammeson.
 					+ Public.
 						+ Human Woman, Late 20s.
@@ -272,33 +301,6 @@
 							1. I run the illegal corpse-exhuming ring in town.
 						+ Flesh Slots: 2 Wounds.
 						+ **Doc Dammeson.**<br>0 HP, FL 6 (4), LI 6 (6).
-				+ Martin the Mathologer.
-					+ Public.
-						+ Human Man, Late 20s.
-						+ Long Wild Hair.
-						+ Filthy Robe.
-					+ Private.
-						+ Facets: Easily Frightened (d6), Mathematical Obsession (d6)
-						+ Wants: to leave the cult.
-						+ Secrets:
-							1. Crasmus is mathematically untalented, he asked me for help.
-						+ Light Slots.
-							1. Stress.
-							2. Stress.
-							3. Ruse (I'm a psion)
-								+ Martin's alleged powers are actually the entity below.
-							4. Conic Psi-Entity (XX-HAR-KAR-XX).
-								+ Former conic general & warlord, ruled from this fortress as the empire fell.
-								+ Wants: to possess someone smart and powerful, to regain his own body.
-								+ Powers:
-									+ PK Terrify (one human you can see experiences a frightening sensory effect).
-									+ PK Command (targets that fail a Light Save must obey or suffer d6 Stress, on a save they become immune for the rest of the session).
-									+ PK Fire (one character or object catches fire, characters get a Light Save).
-									+ PK Doom (explode the head of someone with <4 Light).
-						+ Flesh Slots.
-							1. Mathematician's Kit.
-							2. Peacock Quill (5d R&B).
-						+ **Martin.**<br>0 HP, FL 4 (2), LI 8 (4).
 			+ No monster or loot.
 			+ Spiral staircase (bottom 15-ft collapsed), leads up to area 11 (Guard Bubble).
 	12. Guard Bubble
@@ -430,7 +432,11 @@
 	22. Gate.
 		+ Public.
 		+ Private.
-	23. 
+	23. Antediluvian Pool.
+		+ Public.
+			+ Crystal Walls (interior of geode).
+			+ Pool of Water (full of horsehoe crabs, trilobites, hallucigenia).
+		+ Private. 
 	24. Psion Saucer.
 		+ Public.
 			+ Silver Disc (featureless inside and out, pilot's plinth).
