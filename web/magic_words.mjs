@@ -33,7 +33,7 @@ for(const [key, value] of Object.entries(magicWords))
 const labelRandomWord = document.getElementById("label-random-word")
 function displayRandomWord() {
     const index = Math.floor(uncategorisedMagicWords.length*Math.random());
-    labelRandomWord.textContent = (index).toString().concat(". ".concat(uncategorisedMagicWords[index]));
+    labelRandomWord.textContent = (index+1).toString().concat(". ".concat(uncategorisedMagicWords[index]));
 }
 document.getElementById("button-random-word").addEventListener('click', displayRandomWord);
 displayRandomWord();
