@@ -174,6 +174,7 @@ export default {
 		"sadness",
 		"sloth",
 		"wrath",
+		"hate",
 		"ugly"
 	],
 	"virtue": [
