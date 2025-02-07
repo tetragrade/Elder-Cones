@@ -8,7 +8,12 @@ export default {
 		"cleave",
 		"penetrate",
 		"welt",
-		"scar"
+		"scar",
+		"vaporize",
+		"boil",
+		"sublimate",
+		"crush",
+		"melt"
 	],
 	"abjure": [
 		"deflect",
