@@ -1,0 +1,260 @@
+export default {
+	"damage": [
+		"shatter",
+		"burn",
+		"freeze",
+		"bend",
+		"twist",
+		"cleave",
+		"penetrate",
+		"welt",
+		"scar"
+	],
+	"abjure": [
+		"deflect",
+		"evade",
+		"reverse",
+		"overwhelm",
+		"avoid",
+		"oppose"
+	],
+	"physical_property": [
+		"strong",
+		"weak",
+		"sharp",
+		"blunt"
+	],
+	"upper": [
+		"soul",
+		"spirit"
+	],
+	"mental": [
+		"see",
+		"hear",
+		"smell",
+		"taste",
+		"tact",
+		"thought",
+		"imagine",
+		"agony",
+		"pleasure",
+		"madness"
+	],
+	"body_part": [
+		"bile",
+		"pus",
+		"phlegm",
+		"jelly",
+		"flesh",
+		"bone",
+		"skin",
+		
+		"head",
+		"nose",
+		"mouth",
+		"lip",
+		"teeth",
+		"tongue",
+		"eye",
+		"hair",
+		"arm",
+		"hand",
+		"leg",
+		"foot",
+		"torso",
+		"groin"
+	],
+	"body_action": [
+		"breath",
+		"leap",
+		"lift",
+		"hold",
+		"take",
+		"raise",
+		"lower",
+		"drop",	
+		"spew",
+		"bleed",
+		"cry"
+	],
+	"mineral": [
+		"amethyst",
+		"diamond",
+		"ruby",
+		"sapphire",
+		"emerald",
+		"pearl",
+		
+		"mercury",
+		"gold",
+		"iron",
+		"cobalt",
+		"tin",
+		"copper",
+		"bronze",
+		
+		"granite",
+		"marble",
+		
+		"sulfur",
+		"salt"
+	],
+	"control": [
+		"desire",
+		"obey",
+		"command"
+	],
+	"sin": [
+		"envy",
+		"gluttony",
+		"lust",
+		"pride",
+		"greed",
+		"sadness",
+		"sloth",
+		"wrath"
+	],
+	"virtue": [
+		"brave",
+		"kind"
+	],
+	"animal_real": [
+		"bird",
+		"fish",
+		"lizard",
+		"serpent",
+		
+		"bear",
+		"cat",
+		"cow",
+		"crocodile",
+		"dog",
+		"dolphin",
+		"flamingo",
+		"frog",
+		"giraffe",
+		"horse",
+		"lion",
+		"monkey",
+		"pig",
+		"shark",
+		"sheep",
+		"snail",
+		"tiger",
+		"toucan",
+		"zebra",
+		"kangaroo"
+	],
+	"animal_fantasy": [
+		"dragon",
+		"griffin",
+		"troll"
+	],
+	"plant_real": [
+		"wood",
+		"cherry",
+		"ebony",
+		
+		"leaf",
+		"sap",
+		"bark",
+		
+		"fruit",
+		"cabbage",
+		"apple",
+		"banana",
+		"mango"
+	],
+	"element": [
+		"fire",
+		"water",
+		"earth",
+		"air",
+		"wind",
+		"aether",
+		"ice",
+		"acid",
+		"bubblegum"
+	],
+	"shape": [
+		"orb",
+		"ring",
+		"rod",
+		"disc",
+		"plane",
+		"cube",
+		"hexagon",
+		"orbit",
+		"curl",
+		"straight",
+		"reverse",
+		"bend",
+		"overlap"
+	],
+	"place": [
+		"near",
+		"far",
+		
+		"home",
+		"foreign",
+		
+		"land",
+		"realm",
+		"world",
+		
+		"mountain",
+		"volcano",
+		"sea",
+		"abyss",
+		"ocean",
+		"lake",
+		"forest",
+		"jungle",
+		"plain",
+		"steppe",
+		"waste",
+		"desert"
+	],
+	"color": [
+		"red",
+		"orange",
+		"yellow",
+		"green",
+		"blue",
+		"indigo",
+		"violet"
+	],
+	"energy": [
+		"heat",
+		"temperature",
+		"cold",
+		
+		"light",
+		"twilight",
+		"dark",
+		"nothing"
+	],
+	"semantic_relation": [
+		"yield",
+		"cause",
+		"opposite",
+		"similar"
+	],
+	"outsider": [
+		"ghoul",
+		"skeleton",
+		"demon",
+		"elemental"
+	],
+	"downer": [
+		"rot",
+		"fungus",
+		
+		"vermin",
+		"swarm",
+		"locust",
+		
+		"sick",
+		"wither"
+	]
+}

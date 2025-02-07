@@ -80,7 +80,7 @@
 			+ Human Face (protrudes from cone, three eyes: 3rd is source of powers).
 		+ Private.
 			+ Introduces Convention = { Don't Challenge the Leader (d6) }
-			+ Personality:
+			+ Facets:
 				+ Fragile Narcissist (d12). 
 				+ Love Bomber (d8).
 			+ Wants:
@@ -118,8 +118,9 @@
 		+ Crook Staff (d6).
 	5. 1 **Undersky Tuna.** Iridescent scales and pitch-black eyes, hovers around ominously.<br>8 HP, SV ≤3, AP 8. Actions:
 		1. Slam (d8).
-		2. To the Depths with Ye (Light Save or be banished to stygian sea in realm of pure darkness, return iff tuna dies).
-			+ Characters in the realm of pure darkness at the end of a scene are eaten by sea monsters.
+		2. To the Depths with Ye (Light Save or be psychically banished to stygian sea in realm of pure darkness, until the tuna dies).
+			+ Affected characters can see the real and dark world overlapping, and interact with elements of both: they can swim around in mid-air, and fight, though impaired. 
+			+ Characters in the realm of pure darkness at the end of a scene are eaten by its sea monsters.
 	6. d4 **Degenerated Coneling.** Rat-sized cone creature with neon green skin, hobbles about.<br> 6 HP, SV ≤3, AP 4. Actions:
 		+ Smack (d4).
 		+ PK Cold (learn one secret of a creature you can see).
@@ -156,7 +157,7 @@
 			+ Artificial Passage (to area 5, sounds of flowing water).
 		+ Private.
 			+ No monster or loot.
-			+ Far below, on the cliff, area 16 (Psion Saucer).
+			+ Far below, on the cliff, area 24 (Psion Saucer).
 			+ Vent (spews smoke, sealed with metal grate, leads to area 10).
 	4. Starry Dome.
 		+ Public.
@@ -243,6 +244,9 @@
 			+ Smoke Vent (sealed with metal grate, immersive sim sized, vents smoke to area 3).
 			+ Sacks and Sacks of Flour.
 		+ Private.
+			+ Loot.
+				+ On the kitchen counter.
+					+ 1 Surgeon's Kit (25d R&B).
 	11. Nightmare Dorms.
 		+ Public.
 			+ Tall Circular Chamber.
@@ -250,31 +254,51 @@
 			+ Scattered Scrolls (incomprehensible formulae).
 			+ Screaming (Martin, caught in one of HK's terrifying illusions).
 		+ Private.
-			+ Martin the Mathologer.
-				+ Public.
-					+ Long Wild Hair.
-					+ Filthy Robe.
-				+ Private.
-					+ Facets: Easily Frightened (d6), Mathematical Obsession (d6)
-					+ Wants: to leave the cult.
-					+ Secrets:
-						1. Crasmus is mathematically untalented, he asked me for help.
-					+ Light Slots.
-						5. Stress.
-						6. Stress.
-						7. Stress.
-						8. Conic Psi-Entity (XX-HAR-KAR-XX).
-							+ Former conic general & warlord, ruled from this fortress as the empire fell.
-							+ Wants: to possess someone smart and powerful, to regain his own body.
-							+ Powers:
-								+ PK Terrify (one human you can see experiences a frightening sensory effect).
-								+ PK Command (targets that fail a Light Save must obey or suffer d6 Stress, on a save they become immune for the rest of the session).
-								+ PK Fire (one character or object catches fire, characters get a Light Save).
-								+ PK Doom (explode the head of someone with <4 Light).
-					+ Flesh Slots.
-						1. Mathematician's Kit.
-						2. Peacock Quill (5d R&B).
-					+ **Martin.**<br>0 HP, FL 4 (2), LI 8 (4).
+			+ Loot.
+				+ Cupboard.
+					+ 3 Cultist Disguise (sphere).
+					+ 1 Plague Doctor's Mask (7d R&B).
+			+ NPCs.
+				+ Doc Dammeson.
+					+ Public.
+						+ Human Woman, Late 20s.
+						+ Blood-Splattered Plague Doctor Outfit (no mask).
+						+ PK Stunned
+					+ Private.
+						+ Wants.
+							+ Her mask (in this room) and tools (in area 10), and isn't leaving without them. She doesn't know where either is.
+						+ Facets: Surgeon (d12), Stubborn (d6).
+						+ Secrets:
+							1. I run the illegal corpse-exhuming ring in town.
+						+ Flesh Slots: 2 Wounds.
+						+ **Doc Dammeson.**<br>0 HP, FL 6 (4), LI 6 (6).
+				+ Martin the Mathologer.
+					+ Public.
+						+ Human Man, Late 20s.
+						+ Long Wild Hair.
+						+ Filthy Robe.
+					+ Private.
+						+ Facets: Easily Frightened (d6), Mathematical Obsession (d6)
+						+ Wants: to leave the cult.
+						+ Secrets:
+							1. Crasmus is mathematically untalented, he asked me for help.
+						+ Light Slots.
+							1. Stress.
+							2. Stress.
+							3. Ruse (I'm a psion)
+								+ Martin's alleged powers are actually the entity below.
+							4. Conic Psi-Entity (XX-HAR-KAR-XX).
+								+ Former conic general & warlord, ruled from this fortress as the empire fell.
+								+ Wants: to possess someone smart and powerful, to regain his own body.
+								+ Powers:
+									+ PK Terrify (one human you can see experiences a frightening sensory effect).
+									+ PK Command (targets that fail a Light Save must obey or suffer d6 Stress, on a save they become immune for the rest of the session).
+									+ PK Fire (one character or object catches fire, characters get a Light Save).
+									+ PK Doom (explode the head of someone with <4 Light).
+						+ Flesh Slots.
+							1. Mathematician's Kit.
+							2. Peacock Quill (5d R&B).
+						+ **Martin.**<br>0 HP, FL 4 (2), LI 8 (4).
 			+ No monster or loot.
 			+ Spiral staircase (bottom 15-ft collapsed), leads up to area 11 (Guard Bubble).
 	12. Guard Bubble
@@ -337,7 +361,77 @@
 				+ 1 Psykonium Shunt.
 				+ 3 Gold Bar (50d R&B).
 				+ 2 Box of Pleasure Spheres (taste amazing, psionic effect).
-	16. Psion Saucer.
+	16. Waterfall Chamber.
+		+ Public.
+			+ Bioluminescence (lemon yellow, on every wet surface)
+			+ Big Cluster of Stalagmites.
+			+ Roaring Water.
+		+ Private.
+	17. Crystal Prison.
+		+ Public.
+			+ Dark Stone Walls (flashing RGB crystals).
+			+ Three Giant Crystals (two contain people).
+		+ Private.
+			+ Crystal Prisons.
+				+ Sealed Here.
+					+ The real Baron Borok (see [[Borok#^e7afdd|his secrets]] for more info).
+						+ He is nude and carrying no items, he's otherwise identical to his doppelganger.
+					+ Ur-Cone Mameluke (human).
+				+ To unseal? Light check or lethally flushes the crystal.<br>Fake baron knows how to do it reliably way.
+			+ Loot.
+				+ August Borok's Corpse.
+					+ 1 Noble Clothes.
+					+ 1 Borok Signet Ring (100d R&B, or 200d R&B to a member of house Borok).
+	18. Empty Cave.
+		+ Public.
+			+ Limestone (drip drip).
+			+ Twin Stalagmites.
+		+ Private.
+	19. Ogre's Lair.
+		+ Public.
+			+ Limestone (drip drip).
+			+ Lots of Bones.
+		+ Private.
+			+ Loot.
+				+ Climbing Equipment.
+				+ 14 Weapon & Set of Armor.
+				+ 1 Ring, Dasteres of The Subtle Tower (sentient, wearer can Save to hide in shadows and ring is an appropriate tool for it).
+					+ Calls out to nearby people, wants a new master, is mischievously evasive.
+			+ Force.
+				+ 1 **Cave Ogre.** Ragged emaciated flesh, crawls rapid on all fours. Stealthy despite huge size, advances with every strike of the pick.<br> HP 24, SV ≤4, AP 8.
+					+ Actions:
+						+ Gnaw (d12 dmg).
+						+ Cave Collapse (-10 Dif, targets pinned helpless under rocks).
+	20. Miner's Frontier.
+		+ Public.
+			+ Glow (lemon yellow from through the north crack).
+			+ Sounds (limestone drip drip, distant roar of water). 
+		+ Private.
+			+ The squeeze has partially collapsed (deliberately, by the imposter Baron Borok): it's blocked by rubble.
+			+ Loot.
+				+ Laying against the north wall.
+					+ 1 Pickaxe.
+	21. Tree of Stone.
+		+ Public.
+			+ Many Branching Passage (clearly manually cut).
+			+ Wooden Support Beams (frequent).
+		+ Private.
+			+ Spots of Interest.
+				1. 1 **Animate Skeleton.**<br>HP 4, SV none, AP 4.
+					+ Features:
+						+ Can only be de-animated by PK powers, or holy symbols wielded while a psion is present.<br>Otherwise, rises again with full HP after one round. 
+					+ Actions:
+						+ Bow (d6, -10 Dif due to cramped surroundings).
+				2. Miner's Corpse.
+					+ 1 Pickaxe.
+					+ 1 Bag of Coins (1d R&B).
+				3. Overlook.
+					+ Imperial banner embedded in ground.
+	22. Gate.
+		+ Public.
+		+ Private.
+	23. 
+	24. Psion Saucer.
 		+ Public.
 			+ Silver Disc (featureless inside and out, pilot's plinth).
 			+ Multicoloured Orbs (fill the space to knee height).

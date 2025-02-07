@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"f021e2f5857e9184","type":"text","text":"Gatehouse","x":95,"y":-10,"width":250,"height":60},
+		{"id":"4e8666dd45916784","type":"text","text":"Borok catch brad","x":95,"y":-300,"width":250,"height":60,"color":"3"},
+		{"id":"f505dda6967a143f","type":"text","text":"Selene get me a psycone","x":420,"y":-300,"width":250,"height":60,"color":"3"},
+		{"id":"8bb3df4202e22ff4","type":"text","text":"Hargrave destroy cult","x":-260,"y":-300,"width":250,"height":60,"color":"3"},
+		{"id":"0b92c21df899754a","type":"text","text":"Borok","x":95,"y":-540,"width":250,"height":60},
+		{"id":"000a472c345c2092","type":"text","text":"Rescue Doc Dammeson","x":-580,"y":-300,"width":250,"height":60,"color":"3"},
+		{"id":"95640e0ced3e77a0","type":"text","text":"Crasmus wreck the kristian temple","x":-900,"y":-295,"width":260,"height":55,"color":"3"},
+		{"id":"c0caad3125326d6b","type":"text","text":"Crasmus is bullshitting abt everything","x":740,"y":-300,"width":250,"height":60,"color":"5"},
+		{"id":"1bf90bdef6be260e","type":"text","text":"Dammeson's Secret Room","x":95,"y":-740,"width":250,"height":60,"color":"5"},
+		{"id":"e588525240b8e67c","x":1100,"y":-300,"width":250,"height":60,"color":"5","type":"text","text":"Baron's in crystal prison"}
+	],
+	"edges":[
+		{"id":"ce3f34b2dc3e9c3f","fromNode":"4e8666dd45916784","fromSide":"bottom","toNode":"f021e2f5857e9184","toSide":"top"},
+		{"id":"7009d41512688299","fromNode":"f505dda6967a143f","fromSide":"bottom","toNode":"f021e2f5857e9184","toSide":"top"},
+		{"id":"3d456a2648d825e6","fromNode":"f021e2f5857e9184","fromSide":"right","toNode":"c0caad3125326d6b","toSide":"bottom"},
+		{"id":"374e6657e8a7fdf4","fromNode":"f021e2f5857e9184","fromSide":"left","toNode":"000a472c345c2092","toSide":"bottom"},
+		{"id":"0f26af9d5c3925a3","fromNode":"8bb3df4202e22ff4","fromSide":"bottom","toNode":"f021e2f5857e9184","toSide":"top"},
+		{"id":"9b81aacfb04539b2","fromNode":"0b92c21df899754a","fromSide":"bottom","toNode":"8bb3df4202e22ff4","toSide":"top"},
+		{"id":"e3bd48d61841a6c1","fromNode":"0b92c21df899754a","fromSide":"bottom","toNode":"4e8666dd45916784","toSide":"top"},
+		{"id":"53864bc8d3f5cef7","fromNode":"0b92c21df899754a","fromSide":"bottom","toNode":"f505dda6967a143f","toSide":"top"},
+		{"id":"a14e7c683c9fdfef","fromNode":"f021e2f5857e9184","fromSide":"left","toNode":"95640e0ced3e77a0","toSide":"bottom"},
+		{"id":"506912e2e1dc97d9","fromNode":"95640e0ced3e77a0","fromSide":"top","toNode":"0b92c21df899754a","toSide":"left"},
+		{"id":"6a44c288e9307659","fromNode":"000a472c345c2092","fromSide":"top","toNode":"0b92c21df899754a","toSide":"left"},
+		{"id":"4b10ebf96336b5a9","fromNode":"0b92c21df899754a","fromSide":"top","toNode":"1bf90bdef6be260e","toSide":"bottom"},
+		{"id":"8ae13cff7efbbe9f","fromNode":"f021e2f5857e9184","fromSide":"right","toNode":"e588525240b8e67c","toSide":"bottom"},
+		{"id":"31f489cdf221d6db","fromNode":"c0caad3125326d6b","fromSide":"top","toNode":"0b92c21df899754a","toSide":"right"},
+		{"id":"741145114faf2441","fromNode":"e588525240b8e67c","fromSide":"top","toNode":"0b92c21df899754a","toSide":"right"}
+	]
+}

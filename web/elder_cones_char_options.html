@@ -1,26 +1,32 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Elder Cones Information for Players</title>
+		<title>Veracity Playtest | Information for Players</title>
 		<meta charset="UTF-8">
 		
 		<link rel="stylesheet" href="site.css">
 	</head>
 	<body>
-		<h1>Character creation steps.</h1>
-		<a id="veracity-link" href="https://github.com/tetragrade/veracity-ttrpg">read the core rules here</a>
+		<h1>Character Creation Steps</h1>
+		<a id="veracity-rules-link" href="https://github.com/tetragrade/veracity-ttrpg">read the full rules here</a>
 		<ol>
 			<li>
 				<h2>Stats & Facets</h2>
 				<div>
-					<p>Assign stats and Facets, and decide your character's name, appearance, etc.</p>
-					<p>Your stats are Light & Flesh. You start with 4 Light, 4 Flesh, and 4 points to assign freely.</p>
+					<p>
+						Assign stats and Facets, and decide your character's name, appearance, etc.
+						<br>
+						Your stats are Light & Flesh. You start with 4 Light, 4 Flesh, and 4 points to assign freely.
+					</p>
 				</div>
 				<div>
+					<p>
+						Facets are descriptors of character's drives and talents. To compare them to something else: they're sort of like skills, or Fate's aspects.
+						<br>
+						You start with two Facets, both of die size d6.
+					</p>
 					<table id="table-facets">
 						<thead>
-					<p>Facets are descriptors of character's drives and talents. To compare them to something else: they're sort of like skills, or Fate's aspects.</p>
-					<p>You start with two Facets, both of die size d6.</p>
 							<tr><th>d6</th><th colspan=9>Example Facets</th></tr>
 
 							<tr>
@@ -61,39 +67,111 @@
 				</div>
 			</li>
 			<li>
+				<h2>Choose One Boon</h2>
+				
+				<p></p>
+				<div class="character-class character-class-wizard">
+					<h3 class="character-class-heading">Wizarding Education</h3>
+					<p>Wizards cast free-form spells, assembling them on the fly.</p>
+					<ul>
+						<li>
+						You start with a number of Grimoires equal to your Light.
+						They are stored in your room at the local inn, or on your person: you decide.
+						</li>
+						<li>
+							Your character has a chance to read their grimoires before the start of the session, memorize any number of words from them.
+						</li>
+					</ul>
+					<table>
+						<thead>
+							<tr><th>Item Name</th><th>Description</th></tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td class="td-key">Grimoire</td>
+								<td>Read to memorize the <a href="elder_cones_magic_words.html">magic word</a> written inside. Reading a grimoire takes one hour.</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+				
+				<div class="character-class character-class-psion">
+					<h3 class="character-class-heading">Psionic Power</h3>
+					<p>Psions replicate preset effects with the power of their minds.</p>
+					<ul>
+						<li>
+						You start with 1 PK Power, it fills a Light Slot.
+					</ul>
+					<table>
+						<thead>
+							<tr><th>Item Name</th><th>Description</th></tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td class="td-key">PK ???</td>
+								<td>
+									Choose any first-level or level-less spell (B/X or general OSR), and add PK in front of it.
+									<br>
+									The power replicates the spell. Once used, it becomes unusable until the next scene.
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+				
+				<div class="character-class character-class-fighter">
+					<h3 class="character-class-heading">Experienced Warrior</h3>
+					<p>You know how it is.</p>
+					<ul>
+						<li>Enemies save vs your attacks at +2 Dif (+10% hit chance).</li>
+					</ul>
+				</div>
+			</li>
+			<li>
 				<h2>Pick Equipment</h2>
+				
+				<p>
+					You can take as many items as you can carry, each item fills a Flesh Slot.
+					<br>
+					These are suggested categories. If you have an idea that isn't listed, ask me about it. We'll make it work.
+				</p>
 				<table>
 					<thead>
 						<tr><th>Item Name</th><th>Description</th></tr>
 					</thead>
 					<tbody>
 						<tr>
-							<td>Mundane Melee Weapon</td>
+							<td class="td-key">Mundane Melee Weapon</td>
 							<td>i.e. sword, mace, spear. d6 damage.</td>
 						</tr>
 						<tr>
-							<td>Mundane Ranged Weapon</td>
-							<td>i.e. bow, crossbow. d6 damage.<br>Range 500-ft, defenders Save at -10 Dif if you are engaged in melee, or in a confined space.</td>
+							<td class="td-key">Mundane Ranged Weapon</td>
+							<td>i.e. bow, crossbow. d6 damage.<br>Range 500-ft, defenders Save at -10 Dif if you are engaged in melee, or in a tight space.</td>
 						</tr>
 						<tr>
-							<td>Mundane Armor Piece</td>
-							<td>i.e. helmet, pauldron, breastplate, shield. grants +4 HP</td>
+							<td class="td-key">Mundane Armor Piece</td>
+							<td>i.e. helmet, pauldron, breastplate, shield. Grants +4 HP</td>
 						</tr>
 						<tr>
-							<td>Tool Kit</td>
-							<td>Contains any item that you need to perform the named task.<br>i.e. Lock-Picking Kit, Blacksmith's Kit, Climbing Kit.<br>Using an appropriate tool grants a -5 modifier to Saves.</td>
-						</tr>
-						<tr>
-							<td>Bag of Money</td>
-							<td>Worth 1 day's Room & Board.</td>
-						</tr>
-						<tr>
-							<td>Torch</td>
+							<td class="td-key">Torch</td>
 							<td>40-ft radius. Once lit: 1-in-10 each turn to extinguish.</td>
+						</tr>
+						<tr>
+							<td class="td-key">Tool Kit</td>
+							<td>Contains any small item that you need to perform the named task.<br>i.e. Lock-Picking Kit, Blacksmith's Kit, Climbing Kit.<br>Using an appropriate tool grants a -3 modifier to Saves.</td>
+						</tr>
+						<tr>
+							<td class="td-key">Large tool</td>
+							<td>A large tool. i.e. Pickaxe, Sledgehammer.<br>Using an appropriate tool grants a -3 modifier to Saves.</td>
+						</tr>
+						<tr>
+							<td class="td-key">Bag of Money</td>
+							<td>Worth 1 day's Room & Board. Big $ Sign on front. </td>
 						</tr>
 					</tbody>
 				</table>
 			</li>
 		</ol>
+		<img src="soyjak.png" style="height: 10rem">
 	</body>
 </html>
