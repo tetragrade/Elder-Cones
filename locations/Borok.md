@@ -48,23 +48,19 @@
 				+ Full of skeletons and jarred organs.
 				+ Two rotting corpses (a young couple that died of dysentery).
 			+ Empty, Locked Tight (she's missing).
-	4. Conic Cult Safehouse.
-		+ Public.
-			+ Apartment Above the Tavern.
-		+ Private.
-	5. The Mole House, Tavern.
+	4. The Mole House, Tavern.
 		+ Public.
 			+ Bottom Floor of Townhouse.
 			+ Cramped With Miners.
 			+ Orange Light, Choked With Smoke (chimney's too narrow).
 			+ Sign (cute mole in comfy cottage).
 		+ Private.
-	6. Titanium Mine.
+	5. Titanium Mine.
 		+ Public.
 			+ 
 		+ Private.
 			+ Entrance is directly under the castle.
-	7. Graveyard.
+	6. Graveyard.
 		+ Public.
 			+ Stacked Tombstones (no room).
 			+ Half the Graves Spilled out Exhumed.

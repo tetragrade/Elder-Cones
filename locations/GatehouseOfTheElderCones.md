@@ -40,7 +40,7 @@
 			3. The conics will return soon. I had a dream where they spoke to me.<br>They said I have to trust Crasmus and make sure not to get leaves in his tea. 
 			4. Lost my mask. So embarrassed. You're a sphere, right?
 			+ ![[dungeon_turn_procedure.png]]
-+ Encounters.
++ d8 Encounters (top half).
 	1. Brad the Butcher.
 		+ Public.
 			+ Black Hair (long and unkempt hair and beard).
@@ -52,7 +52,9 @@
 				+ Envious (d8).
 				+ Professional Thief (d10).
 			+ Wants.
-				+ To kill people (on meeting someone, w/ no current victim: obsess & hunt, picking randomly from groups).
+				+ To kill people.
+					+ Current target: Doc Dammeson.
+					+ On meeting someone with no current victim: obsess & hunt, picking randomly from groups.
 			+ Fake identity: Brin Smith, local farmer. <span style="color:red">"Come stay the night. I have stew."</span>
 			+ Secrets:
 				1. I am Brad the Butcher.
@@ -66,12 +68,12 @@
 			+ Flesh Slots.
 				6. Smoke Bomb (throw to create a  cloud of smoke, radius 10+1d6 ft).
 				7. Gambeson (+4 HP).
-				8. Hard Leather Boots (+4 HP).
-				9. Cleaver (d6).
-				10. Ring of Vampiric Restoration (vampire heal half damage dealt, sentient).
+				8. Hard Leather Boot (+4 HP).
+				9. Hard Leather Boot (+4 HP).
+				10. Cleaver (d6).
 				11. Ruby Ring (75d R&B).
-				12. Bag of Coins (1d R&B).
-			+ **Brad the Butcher.**<br>HP 8, FL 12 (5), LI 10 (6). Actions:
+				12. Ring of Vampiric Restoration (vampire heal half damage dealt, sentient).
+			+ **Brad the Butcher.**<br>HP 12, FL 12 (5), LI 10 (6). Actions:
 				+ Cleaver (d6+1, vampire heal for half damage).
 				+ **Once:** Smoke Bomb (radius 10+1d6 ft).
 	2. Crasmus, The Acconed + d2 cultist (cone) + d6 Cultist (sphere).
@@ -103,7 +105,7 @@
 				5. Crystal Club (d6 dmg, targets that roll a natural 20 add d4 Brain Drain).
 				6. Crystal Club (d6 dmg, targets that roll a natural 20 add d4 Brain Drain).
 			+ **Crasmus.**<br>24 HP, FL 10 (4), LI 16 (13). Actions:
-				+ Crystal Club (d6 dmg, targets that roll a natural 20 add d4 Brain Drain).
+				+ Crystal Club (d6kh1 dmg, targets that roll a natural 20 add d4 Brain Drain).
 					+ Brain Drain (fills a Light Slot, can only be removed by a psion).
 				+ PK Throw (thrown something no larger than a person, up to 30-ft).
 				+ PK Hypnotize (target must answer one yes/no question or gain d6 stress).
@@ -112,7 +114,8 @@
 			+ Human Man, Late 20s.
 			+ Long Wild Hair.
 			+ Filthy Robe.
-		+ Private.
+		+ Private
+			+ He is Maria's brother.
 			+ Facets: Neurotic (d6), Conic Zealot (d8), Mathematician (d12)
 			+ Wants:
 				+ to impress Crasmus enough that he'll be allowed to leave the cult (impossible).
@@ -141,7 +144,7 @@
 		+ Wants:
 			1. Food.
 			2. The Conic Cultists to stop bothering her.
-		+ **Giant Anaconda.** 12 HP, SV, 8 AP. Actions:
+		+ **Giant Anaconda.** 12 HP, SV ≤5, 8 AP. Actions:
 			+ Bite (d10 dmg).
 			+ Constrict (d4 dmg, victim can't move until Flesh Save).
 	5. d4 **Conic Cultist.** Strange mask, green robes.<br>8 HP, SV≤3, AP 8. Actions: 
@@ -159,25 +162,38 @@
 		+ Bite (d4).
 		+ PK Maze (trapped in mental maze, and cannot act until they escape).
 			+ Can't act on your turn until you complete the maze.
++ d4 Encounters (bottom half)
+	1. 1 **Cave Ogre.** Ragged emaciated flesh, crawls rapid on all fours. Stealthy despite huge size, advances with every strike of the pick.<br> HP 24, SV ≤4, AP 8. Actions:
+		+ Gnaw (d12 dmg).
+		+ Cave Collapse (-10 Dif, targets pinned helpless under rocks).
+	2. d4 **Degenerated Coneling.** Rat-sized cone creature with neon green skin, hobbles about.<br> 6 HP, SV ≤3, AP 4. Actions:
+		+ Smack (d4).
+		+ PK Cold (learn one secret of a creature you can see).
+		+ PK Trick (nearby characters hear an illusory sound, originating at a point you can see).
+	3. d2 **Melon-Skull Cave Rat.**<br>4 HP, SV ≤2, AP 4. Actions:
+		+ Bite (d4).
+		+ PK Maze (trapped in mental maze, and cannot act until they escape).
+			+ Can't act on your turn until you complete the maze.
+	4. d6 **Vampire Bat.**<br>HP 1, SV never, AP 4. Actions: Bite (1 dmg). 
 + Locations.
-	0. Exterior Description.
+	1. Exterior Description.
 		+ Public.
 			+ Time & Weather (around twilight, light showers).
 			+ Rolling Hills (bubble tower on a hill, inhabited/fire-lit home, cave entrance).
 			+ Sea (dark for countless leagues until the atmosphere obscures it, distant storm).
 			+ Forest (slightly inland).
-	1. Entry Cave.
+	2. Entry Cave.
 		+ Public.
 			+ Pile of Rubble (descends at a 45°, to area 7, ominous hum/rattling chain).
 			+ Passage (to area 2, sound of flowing water).
 		+ Private.
 			+ No monster or loot.
-	2. Statue Cave.
+	3. Statue Cave.
 		+ Public.
 			+ Natural Statue (seemingly formed by erosion, like a cloaked figure, face and all).
 		+ Private.
 			+ No monster or loot.
-	3. Colossal Cave.
+	4. Colossal Cave.
 		+ Public.
 			+ Vast Chasm (leads down to the infinite underworld realm of Ur-Cone).
 			+ Narrow Path (very slippery, easy to fall).
@@ -187,19 +203,19 @@
 			+ No monster or loot.
 			+ Far below, on the cliff, area 24 (Psion Saucer).
 			+ Vent (spews smoke, sealed with metal grate, leads to area 10).
-	4. Starry Dome.
+	5. Starry Dome.
 		+ Public.
 			+ Illusory Domed Roof (alien night sky w/ cone planet).
 			+ Four Pillars (darkest black stone).
 		+ Private.
 			+ Teleportation Square.
 				+ NW pillar is damaged: 1-in-6 of being off-target, arrive at a similar place.
-				+ Can be used to teleport to any previously visited location within 16 miles.
-				+ Also, psions within 16\*PSI miles can teleport to the dome.
-				+ Characters that look stand under the dome and look up, experience visions of powerful alien beings travelling vast distances using the dome's power. Even to other worlds.
+				+ A psion standing within the square can teleport to any previously visited location within 16 miles.
+				+ **1/day:** any psions within 16\*PSI miles that is aware of the dome can teleport to the dome.
+				+ Characters that stand under the dome and look up, experience visions of powerful alien beings travelling vast distances using the dome's power. Even to other worlds. Psions intuitively understand how to call its power.
 			+ Loot.
 				+ 100 Mock-sky roof tile (3d R&B).
-	5. Flooded Guard Room.
+	6. Flooded Guard Room.
 		+ Public.
 			+ Waist-Deep Water.
 			+ Stone Table (with a tablet).
@@ -211,7 +227,7 @@
 					+ In ancient common.
 					+ <span style="color:magenta">"Overseer agreed to it. I put the goods in our spot.<br>I trust you remember the overlord's special trick to enter?"</span>
 					+ Refers to the loot stash in area 13 (Secret Room), accessible by a secret door in area 4 (Overlord's Guest Room).
-	6. Snake Cells
+	7. Snake Cells
 		+ Public.
 			+ Skeletons (ossified and bound in rusted manacles).
 			+ Crumbled Wall (covered in coral).
@@ -223,8 +239,8 @@
 				+ Adventurer Corpse.
 					+ 1 Psykonium Shunt.
 					+ 1 Helmet (+4 HP, ornate and horned: worth 10d R&B).
-					+ 1 Great-Axe of Lizard-Slaying (d6 dmg, +d6 VS lizards).
-	7. Overlord's Guest Room.
+					+ 1 Great-Axe of Serpent-Slaying (d6 dmg, +d6 VS snakes).
+	8. Overlord's Guest Room.
 		+ Public.
 			+ 6 Raised Plinths (Ur-Cone sleeping areas).
 			+ Mural (Ur-Cone Overlord stands atop subjects, dozen arms spread like the sun).
@@ -239,19 +255,19 @@
 			+ Loot.
 				+ 2 Amethyst (30d R&B).
 					+ The overlord mural's eyes: disables door to 15 if either removed.
-	8. Dangling Chain.
+	9. Dangling Chain.
 		+ Public.
 			+ Two Tiers (30-ft shaft connects top and bottom).
 			+ Stone Walls (shaft decorated with Ur-Cone victories).
 			+ Chain (connected to ceiling with a pulley linkage, allows travel between floors).
 		+ Private. 
-			+ Force.
-				+ 4 Conic Cultist (guarding bottom of shaft). 
+			+ NPCs.
+				+ 4 **Conic Cultist** (guarding bottom of shaft). 
 			+ Climbing or shaking the chain is very loud and alerts the conic cultists.
 			+ Using the chain.
 				+ Cultists use their crooks to pull it towards the edge.
 				+ Once on, you can either climb up and down, or stand on the crossbar and let someone move the chain with the pulley system.
-	9. Conic Shrine.
+	10. Conic Shrine.
 		+ Public.
 			+ Quiet (aside from whispering acolytes).
 			+ Full of Smoke (from candles and incense). 
@@ -259,14 +275,17 @@
 			+ Upper Levels Crossed by Tightrope (east/west balconies, crumbling railing).
 			+ Collapsed Rubble Arch (south wall).
 		+ Private.
-			+ Conventions = { Don't Disturb The Sacred Space (d10) }
-			+ Force.
+			+ Conventions:
+				+ Don't Disturb The Sacred Space (by acting loud or erratic, d10).
+			+ NPCs.
+				+ 2d6 **Conic Cultist** (meditating and praying).
 			+ Loot.
 				+ 5 Ancient Mathematical Scrolls (20d R&B).
 				+ 1 Psykonium Shunt.
 				+ 3 Amethyst Eyes (10d R&B).
 				+ 1 Sapphire Ring (20d R&B).
-	10. Kult Kitchen.
+				+ 1 Crucifix (75 GP).
+	11. Kult Kitchen.
 		+ Public.
 			+ Fire + Stew.
 			+ Smoke Vent (sealed with metal grate, immersive sim sized, vents smoke to area 3).
@@ -275,7 +294,7 @@
 			+ Loot.
 				+ On the kitchen counter.
 					+ 1 Surgeon's Kit (25d R&B).
-	11. Nightmare Dorms.
+	12. Nightmare Dorms.
 		+ Public.
 			+ Tall Circular Chamber.
 			+ Furniture (rough beds with flimsy frames, scuffed wardrobes).
@@ -287,7 +306,7 @@
 					+ 3 Cultist Disguise (sphere).
 					+ 1 Plague Doctor's Mask (7d R&B).
 			+ NPCs.
-				+ 1-in-2: Martin.
+				+ 1-in-2: **Martin.**
 				+ Doc Dammeson.
 					+ Public.
 						+ Human Woman, Late 20s.
@@ -303,7 +322,7 @@
 						+ **Doc Dammeson.**<br>0 HP, FL 6 (4), LI 6 (6).
 			+ No monster or loot.
 			+ Spiral staircase (bottom 15-ft collapsed), leads up to area 11 (Guard Bubble).
-	12. Guard Bubble
+	13. Guard Bubble
 		+ Public.
 			+ Glass-Like-Steel Sphere (360° view of surroundings).
 			+ Ancient Skeleton (purple/white jumpsuit, clutching orb).
@@ -318,7 +337,7 @@
 						+ Recharges after a full day under sunlight.
 				+ Embedded in Glass.
 					+ 1 Ancient Lance (d6+2, +d6 during mounted charge).
-	13. Old Cistern.
+	14. Old Cistern.
 		+ Public.
 			+ Filthy Water (rotting food and excrement, thrown down from area 14).
 			+ Floating Bones (Brad's victims).
@@ -327,15 +346,15 @@
 			+ Loot.
 				+ Innumerable Bones, Wood Scraps, Rusted Metal Tools & Weapons.
 				+ 1 Masterwork Sword (d6+1).
-	14. Brad's House.
+	15. Brad's House.
 		+ Public.
 			+ In Disrepair (rotting thatch, peeling whitewash).
 			+ Cosy Crackling Fire.
 			+ Almost Looks Abandoned (dirt and rubble, thick cobwebs, hole in floor).
 			+ Neatly Laid Out Items.
 		+ Private.
-			+ Monster.
-				+ Brad the Butcher (see encounters 1, this is his lair, 1-in-2 in lair).
+			+ NPCs.
+				+ 1-in-2: **Brad the Butcher.**
 			+ Loot.
 				+ Brad's Trophies.
 					+ 1 Tin Ring.
@@ -345,13 +364,15 @@
 					+ 1 Child's Doll.
 					+ 2 Conic Cult Disguise (circle).
 					+ 4 Conic Cult Disguise (square).
-	15. Secret Room.
+	16. Secret Room.
 		+ Public.
 			+ Dull Stone Walls.
 			+ Gleaming Pile of Treasure.
 			+ Four Poster Bed.
 		+ Private.
-			+ This is Crasmus' bedroom (1-in-2 in lair). When he "visits the conic homeworld", he's actually just hiding in here.
+			+ This is Crasmus' bedroom. When he "visits the conic homeworld", he's actually just hiding in here.
+			+ NPCs.
+				+ 1-in-2: **Crasmus the Acconed.**
 			+ Loot.
 				+ 1 Silk Bedsheets (100d R&B).
 				+ 1 Potion of Enlightenment.
@@ -363,13 +384,13 @@
 				+ 1 Psykonium Shunt.
 				+ 3 Gold Bar (50d R&B).
 				+ 2 Box of Pleasure Spheres (taste amazing, psionic effect).
-	16. Waterfall Chamber.
+	17. Waterfall Chamber.
 		+ Public.
 			+ Bioluminescence (lemon yellow, on every wet surface)
 			+ Big Cluster of Stalagmites.
 			+ Roaring Water.
 		+ Private.
-	17. Crystal Prison.
+	18. Crystal Prison.
 		+ Public.
 			+ Dark Stone Walls (flashing RGB crystals).
 			+ Three Giant Crystals (two contain people).
@@ -384,27 +405,24 @@
 				+ August Borok's Corpse.
 					+ 1 Noble Clothes.
 					+ 1 Borok Signet Ring (100d R&B, or 200d R&B to a member of house Borok).
-	18. Empty Cave.
+	19. Empty Cave.
 		+ Public.
 			+ Limestone (drip drip).
 			+ Twin Stalagmites.
 		+ Private.
-	19. Ogre's Lair.
+	20. Ogre's Lair.
 		+ Public.
 			+ Limestone (drip drip).
 			+ Lots of Bones.
 		+ Private.
+			+ Monsters.
+				+ 1-in-2: **Cave Ogre.**
 			+ Loot.
 				+ Climbing Equipment.
 				+ 14 Weapon & Set of Armor.
 				+ 1 Ring, Dasteres of The Subtle Tower (sentient, wearer can Save to hide in shadows and ring is an appropriate tool for it).
 					+ Calls out to nearby people, wants a new master, is mischievously evasive.
-			+ Force.
-				+ 1 **Cave Ogre.** Ragged emaciated flesh, crawls rapid on all fours. Stealthy despite huge size, advances with every strike of the pick.<br> HP 24, SV ≤4, AP 8.
-					+ Actions:
-						+ Gnaw (d12 dmg).
-						+ Cave Collapse (-10 Dif, targets pinned helpless under rocks).
-	20. Miner's Frontier.
+	21. Miner's Frontier.
 		+ Public.
 			+ Glow (lemon yellow from through the north crack).
 			+ Sounds (limestone drip drip, distant roar of water). 
@@ -413,7 +431,7 @@
 			+ Loot.
 				+ Laying against the north wall.
 					+ 1 Pickaxe.
-	21. Tree of Stone.
+	22. Tree of Stone.
 		+ Public.
 			+ Many Branching Passage (clearly manually cut).
 			+ Wooden Support Beams (frequent).
@@ -429,15 +447,26 @@
 					+ 1 Bag of Coins (1d R&B).
 				3. Overlook.
 					+ Imperial banner embedded in ground.
-	22. Gate.
+	23. Gate.
 		+ Public.
+			+ Big Pile of Rubble.
 		+ Private.
-	23. Antediluvian Pool.
+			+ Buried Under Rubble.
+				+ Diamond (250d R&B).
+	24. Antediluvian Pool.
 		+ Public.
 			+ Crystal Walls (interior of geode).
-			+ Pool of Water (full of horsehoe crabs, trilobites, hallucigenia).
-		+ Private. 
-	24. Psion Saucer.
+			+ Pool of Water (full of horseshoe crabs, trilobites, hallucigenia).
+		+ Private.
+			+ d6 Seafood effects.
+				1. Primitive motor cortex. Enemies save vs your attacks at -1 Dif.
+				2. Eyes become compound (vision becomes black and white).
+				3. Add/Override/Increase Facet: Revert to the Soup (d6).
+				4. Grow chitinous claws (gain d4 claw attack).
+				5. Grow shell (innate +4 HP).
+				6. Grow functional gills.
+				+ If rolling additional times, roll {times rolled}d6kl1. 
+	25. Psion Saucer.
 		+ Public.
 			+ Silver Disc (featureless inside and out, pilot's plinth).
 			+ Multicoloured Orbs (fill the space to knee height).
