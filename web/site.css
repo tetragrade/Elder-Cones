@@ -69,6 +69,13 @@ body > a {
 	margin-bottom: 1rem;
 }
 
+.character-class a:link {
+	color: cyan;
+}
+.character-class a:visited {
+	color: hotpink;
+}
+
 .character-class > ul {
 	padding: 0;
 }

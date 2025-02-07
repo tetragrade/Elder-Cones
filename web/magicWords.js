@@ -169,7 +169,6 @@ export default {
 	"flaw": [
 		"envy",
 		"gluttony",
-		"lust",
 		"pride",
 		"greed",
 		"sadness",
@@ -314,7 +313,7 @@ export default {
 	],
 	"social_roles": [
 		"seeker",
-		
+
 		"wizard",
 		
 		"priest",
