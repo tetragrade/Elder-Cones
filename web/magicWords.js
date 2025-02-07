@@ -215,7 +215,7 @@ export default {
 		"bubblegum"
 	],
 	"shape": [
-		"orb",
+		"sphere",
 		"ring",
 		"rod",
 		"disc",
