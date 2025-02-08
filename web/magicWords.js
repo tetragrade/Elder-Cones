@@ -315,17 +315,16 @@ export default {
 		"become"
 	],
 	"social_roles": [
+		"seeker",
+		"wizard",
+		"priest",
+		"fighter",
+		"thief",
+
 		"wretch",
 		"beggar",
 		"prisoner",
-		"seeker",
-
-		"wizard",
 		
-		"priest",
-		"fighter",
-		
-		"thief",
 		"bandit",
 		"merchant",
 		"baron",
