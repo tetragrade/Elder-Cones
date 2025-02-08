@@ -316,21 +316,19 @@ export default {
 	],
 	"social_roles": [
 		"wretch",
+		"beggar",
+		"prisoner",
 		"seeker",
 
 		"wizard",
 		
 		"priest",
-		"pope",
-		
 		"fighter",
-		"warlord",
-
+		
 		"thief",
 		"bandit",
 		"merchant",
 		"baron",
-		"count",
 		"duke",
 		"king",
 		"emperor",
@@ -342,6 +340,7 @@ export default {
 		"parent",
 
 		"friend",
+		"lover",
 		"spouse"
 	],
 	"time": [
