@@ -310,11 +310,12 @@ export default {
 	"semantic_relation": [
 		"yield",
 		"cause",
-		"opposite",
+		"antithesis",
 		"similar",
 		"become"
 	],
 	"social_roles": [
+		"wretch",
 		"seeker",
 
 		"wizard",
@@ -325,7 +326,6 @@ export default {
 		"fighter",
 		"warlord",
 
-		"rogue",
 		"thief",
 		"bandit",
 		"merchant",
@@ -341,6 +341,7 @@ export default {
 		"sibling",
 		"parent",
 
+		"friend",
 		"spouse"
 	],
 	"time": [
