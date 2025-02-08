@@ -46,6 +46,7 @@ export default {
 		"emit",
 		"expand",
 		"grow",
+		"praise",
 		"divine",
 		"heaven",
 		"law"
@@ -64,6 +65,7 @@ export default {
 	"downer": [
 		"rot",
 		"fungus",
+		"reanimate",
 		
 		"vermin",
 		"swarm",
