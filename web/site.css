@@ -140,21 +140,6 @@ body > a {
 	margin-top: 4.5rem;
 }
 
-#overqualified-baristas-only {
-}
-@media (pointer:coarse) or (pointer:fine) {
-	#overqualified-baristas-only::after {
-		content: " (mouseover if you have a PhD in English Lit)";
-		color: #0000EE;
-	}
-}
-@media (pointer:none) {
-	#overqualified-baristas-only::after {
-		content: " (articles, conjunctions, prepositions, and pronouns)";
-		color: #0000EE;
-	}
-}
-
 #fireball {
 	color: orangered;
 }
