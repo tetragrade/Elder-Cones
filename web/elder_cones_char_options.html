@@ -3,6 +3,7 @@
 	<head>
 		<title>Veracity Playtest | Information for Players</title>
 		<meta charset="UTF-8">
+		<meta name="viewport" content="width=500, initial-scale=0.5" />
 		
 		<link rel="stylesheet" href="site.css">
 	</head>
@@ -71,16 +72,17 @@
 				
 				<p></p>
 				<div class="character-class character-class-wizard">
-					<h3 class="character-class-heading">Wizarding Education</h3>
+					<h3 class="character-class-heading">Wizarding Degree</h3>
 					<p>Wizards cast free-form spells, assembling them on the fly.</p>
 					<ul>
 						<li>
+							You are fully literate in the language of magic.
+						</li>
+						<li>
 							You start with a number of Grimoires equal to your Light, you decide which words they contain.
-						</li>
-						<li>
+							<br>
 							Your character has a chance to read their Grimoires before the start of the session, memorize any number of words from them.
-						</li>
-						<li>
+							<br>
 							They are stored in your room at the local inn, or on your person: you decide.
 						</li>
 					</ul>
@@ -100,10 +102,13 @@
 				<div class="character-class character-class-psion">
 					<h3 class="character-class-heading">Psionic Power</h3>
 					<p>Psions replicate preset effects with the power of their minds.</p>
-					<ul>
-						<li>
-						You start with 1 PK Power, it fills a Light Slot.
-					</ul>
+					
+					<div> <!--required because of list-style-position: outside-->
+						<ul>
+							<li>
+							You start with 1 PK Power, it fills a Light Slot.
+						</ul>
+					</div>
 					<table>
 						<thead>
 							<tr><th>Item Name</th><th>Description</th></tr>
@@ -124,9 +129,23 @@
 				<div class="character-class character-class-fighter">
 					<h3 class="character-class-heading">Experienced Warrior</h3>
 					<p>You know how it is.</p>
-					<ul>
-						<li>Enemies save vs your attacks at +2 Dif (+10% hit chance).</li>
-					</ul>
+					<div> <!--required because of list-style-position: outside-->
+						<ul>
+							<li>Enemies save vs your attacks at +4 Dif (+20% hit chance).</li>
+						</ul>
+					</div>
+				</div>
+				
+				<div class="character-class character-class-thief">
+					<h3 class="character-class-heading">Trained Thief</h3>
+					<p>From each according to my ability, to me.</p>
+					<div> <!--required because of list-style-position: outside-->
+						<ul>
+							<li>You speak a special rhyming language understood only by the precariat.</li>
+							<li>You are usually carrying a set of odd items, i.e. tubing and hairpins, which you can turn into thieving tools on the spot. They cost no inventory space, and only trained coppers know their true purpose.</li>
+							<li>So long as you follow the Thieves Guild code, you ignore the stress of Conventions against crime.</li>
+						</ul>
+					</div>
 				</div>
 			</li>
 			<li>

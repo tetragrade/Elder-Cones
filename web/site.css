@@ -11,6 +11,13 @@ body {
 	}
 }
 
+@media (orientation: portrait) {	
+	body {
+		margin-left: 2rem;
+		margin-right: 2rem;
+	}
+}
+
 h2 {
 	font-size: 2rem;
 }
@@ -27,6 +34,10 @@ div {
 
 }
 
+ul, ol {
+	list-style-position: outside;
+}
+
 li {
 	text-align: left;
 	font-size: 2rem;
@@ -39,7 +50,9 @@ table, td, th {
 	text-align: left;
 }
 
-table { 
+table {
+	max-width: 100vw;
+
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -58,15 +71,18 @@ body > a {
 
 .character-class {
 	padding-left: 1rem;
+	padding-right: 1rem;
+
+	padding-bottom: 1rem;
+	margin-bottom: 1rem;
 	
 	color: white;
 	
 	border: 2pt solid;
-	margin-bottom: 1rem;
 }
 
 .character-class > table {
-	margin-bottom: 1rem;
+	margin-top: 1rem;
 }
 
 .character-class a:link {
@@ -76,13 +92,13 @@ body > a {
 	color: hotpink;
 }
 
-.character-class > ul {
-	padding: 0;
+.character-class ul {
+	padding-left: 1rem;
 }
-.character-class > ul > li {
+.character-class ul > li {
+	padding-bottom: 0.5rem;
 	font-size: 1rem;
-	list-style-position: inside;
-	line-height: 1rem;
+	line-height: 1.25rem;
 }
 
 .character-class-wizard {
@@ -100,6 +116,11 @@ body > a {
 	background-color: darkred;
 }
 
+.character-class-thief {
+	border-color: greenyellow;
+	background-color: green;
+}
+
 .justified-block {
 	text-align: justify;
 }
@@ -107,6 +128,8 @@ body > a {
 #table-facets {
 	margin-top: 2rem;
 }
+
+
 
 #link-back-to-character-creation {
 	position: absolute;
@@ -138,6 +161,8 @@ body > a {
 	display: grid;
 	grid-template-columns: auto auto auto;
 }
+
+
 
 #container-random-word {
 	padding: 1rem;
